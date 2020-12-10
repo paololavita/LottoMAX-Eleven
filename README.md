@@ -1,2 +1,2 @@
-# LottoMAX-Ten
-LottoMAX - Update Ten
+# LottoMAX-Eleven
+LottoMAX - Update Eleven
